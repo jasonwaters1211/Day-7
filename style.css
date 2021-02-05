@@ -5,6 +5,10 @@ header{
     
 }
 
+h1{
+    text-align: center;
+}
+
 .nav{
     -webkit: sticky;
     position: sticky;
